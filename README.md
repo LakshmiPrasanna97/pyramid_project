@@ -1,1 +1,1 @@
-# pyramid_project
+# PyramidProject
